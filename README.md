@@ -6,11 +6,11 @@
           <picture>
             <source
               media="(prefers-color-scheme: dark)"
-              srcset="https://github-stats-extended.vercel.app/api?username=guanyme&title_color=3498db&text_color=ecf0f1&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&disable_animations=true"
+              srcset="https://github-stats-extended.vercel.app/api?username=guanyme&title_color=3498db&text_color=ecf0f1&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true"
             />
             <img
               align="center"
-              src="https://github-stats-extended.vercel.app/api?username=guanyme&title_color=3498db&text_color=121212&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&disable_animations=true"
+              src="https://github-stats-extended.vercel.app/api?username=guanyme&title_color=3498db&text_color=121212&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true"
               alt="Guany's github stats"
             />
           </picture>
@@ -21,11 +21,11 @@
           <picture>
             <source
               media="(prefers-color-scheme: dark)"
-              srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=guanyme&title_color=3498db&text_color=ecf0f1&icon_color=3498db&bg_color=00000000&hide_border=true&layout=compact&disable_animations=true"
+              srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=guanyme&title_color=3498db&text_color=ecf0f1&icon_color=3498db&bg_color=00000000&hide_border=true&layout=compact"
             />
             <img
               align="center"
-              src="https://github-stats-extended.vercel.app/api/top-langs/?username=guanyme&title_color=3498db&text_color=121212&icon_color=3498db&bg_color=00000000&hide_border=true&layout=compact&disable_animations=true"
+              src="https://github-stats-extended.vercel.app/api/top-langs/?username=guanyme&title_color=3498db&text_color=121212&icon_color=3498db&bg_color=00000000&hide_border=true&layout=compact"
               alt="Guany's top langs"
             />
           </picture>
